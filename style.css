@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #4B4947; 
+	font-family: arial;
+}
+
+.container {
+	padding:  50px;
+}
+
+h1 {
+	color: white; 
+	text-align: center; 
+	font-size: 60px; 
+	color: #EECE4A;
+}
+
+#pidea {
+	color: white;
+	text-align: center;
+	font-size: 30px;
+}
+
+#idea-img {
+	display: block;
+	margin: auto;
+	height: 300px;
+	cursor: pointer;
+}
+
+
+
